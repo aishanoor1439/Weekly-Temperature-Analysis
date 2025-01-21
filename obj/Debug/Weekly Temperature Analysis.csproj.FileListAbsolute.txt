@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Weekly Temperature Analysis\bin\Debug\Weekly Temperature Analysis.exe.config
+C:\Users\DELL\source\repos\Weekly Temperature Analysis\bin\Debug\Weekly Temperature Analysis.exe
+C:\Users\DELL\source\repos\Weekly Temperature Analysis\bin\Debug\Weekly Temperature Analysis.pdb
+C:\Users\DELL\source\repos\Weekly Temperature Analysis\obj\Debug\Weekly Temperature Analysis.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Weekly Temperature Analysis\obj\Debug\Weekly Temperature Analysis.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Weekly Temperature Analysis\obj\Debug\Weekly Temperature Analysis.exe
+C:\Users\DELL\source\repos\Weekly Temperature Analysis\obj\Debug\Weekly Temperature Analysis.pdb
